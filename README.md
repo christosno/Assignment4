@@ -18,5 +18,10 @@
     * Size in ascending
     * Size in descending 
     * Color in ascending
+    * Color in descending 
+    * Fabric in ascending
+    * Fabric in descending
+    * Size and Color and Fabric in ascending
+    * Size and Color and Fabric in descending
     
          
